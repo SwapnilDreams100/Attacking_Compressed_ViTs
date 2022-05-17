@@ -4,7 +4,8 @@
 
 Please run `download_checkpoint.sh` to download the models and use `environment.yml` to setup the environment using conda
 
-Download dvit models from drive link and store them in `./dvit/pretrained`
+Download models from drive link `https://drive.google.com/drive/folders/1ZJNrhe6IW82tl4VD0X84Scs4ocETL8-1?usp=sharing` 
+and store them in `/dvit/pretrained` and `checkpoints` respectively
 
 ## Running Experiments 
 
