@@ -1,0 +1,3 @@
+IMAGENET_PATH='./imagenet/'
+NEURIPS_DATA_PATH='./images/'
+NEURIPS_CSV_PATH='./'
