@@ -1,5 +1,7 @@
 # Compressing Adversarial Attacks
 
+Code for paper : https://arxiv.org/abs/2209.13785 published at FICC '23 and Springer
+
 ## Downloading Models:
 
 Please run `download_checkpoint.sh` to download the models and use `environment.yml` to setup the environment using conda
